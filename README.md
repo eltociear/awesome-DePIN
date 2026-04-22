@@ -4,5 +4,6 @@
 
 A curated list of awesome DePIN.
 
-- [gateway](https://github.com/NetSepio/gateway) - Gateway to the secure and performant network powered with AI & DePIN
+- [gateway](https://github.com/NetSepio/gateway) - Gateway to the secure and performant network powered with AI and DePIN
 - [Solana AI Multimodal Agent](https://github.com/jwest951227/Solana-AI-Agent-Multimodal) - a powerful generative library designed for seamless on-chain execution.
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewarding vintage hardware mining. DePIN infrastructure with hardware fingerprinting, Ergo chain anchoring, and on-chain AI agent economy. Paper at CVPR 2026.
